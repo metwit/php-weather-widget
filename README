@@ -1,0 +1,15 @@
+Simple Weather Widget in Php with Metwit Weather API 
+============================================
+
+How to create a simple PHP weather widget to show real time weather in a given location, 
+using Metwit’s Weather API and with the help of Mashape, which will provide us an SDK ready to use with Metwit APIs.
+
+Documentation
+-------------------
+
+For the documentation, please visit http://metwit.com/developers/docs/
+
+Copyright
+---------------
+
+Copyright (C) 2013 Metwit LTD
